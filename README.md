@@ -8,7 +8,7 @@
 
 ## Overview of project
 ### Topic: TEXT-TO-IMAGE GENERATION APPLICATION
-This project implements a **Text-to-Image Generation Application** using the **Stable Diffusion** model. The application takes textual descriptions as input and generates high-quality visual representations of the described scenes or objects. This showcases the potential of generative AI in creating custom, photorealistic images.
+This project implements a **Text-to-Image Generation Application** using the **Stable Diffusion** model. The application inputs textual descriptions and generates high-quality visual representations of the described scenes or objects. This showcases the potential of generative AI in creating custom, photorealistic images.
 
 ---
 
