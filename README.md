@@ -105,8 +105,3 @@ Runs an interactive loop for generating images based on user input.
 - Integrating additional generative models for diverse styles.
 - Allowing for real-time prompt refinement.
 - Adding a graphical user interface (GUI) for easier usability.
-
----
-
-## License
-This project is released under the MIT License. See the `LICENSE` file for details.
