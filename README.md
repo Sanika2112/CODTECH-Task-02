@@ -88,9 +88,11 @@ Runs an interactive loop for generating images based on user input.
 
 ## Example Usage
 1. Run the script.
-2. Input a prompt (e.g., *"A rainy window framing vibrant green plants, their leaves glistening with raindrops."*).
+2. Input a prompt (e.g., *"A stunning view of an ancient stone Hindu temple with intricate carvings of gods and goddesses surrounded by lush greenery and misty mountains in the distance."*).
 3. Specify the number of images (e.g., `3`).
-4. View the generated images or find them saved in the `./generated_images` folder.
+4. View the generated images or find them saved in the `./generated_images` folder.<br>
+![img-2](https://github.com/user-attachments/assets/4a63c86d-575c-40ab-b7d6-703d71972ee2)<br>
+![img-1](https://github.com/user-attachments/assets/f968b6b8-885e-4d72-bc10-3a17ebe04231)
 
 ---
 
