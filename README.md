@@ -88,7 +88,7 @@ Runs an interactive loop for generating images based on user input.
 
 ## Example Usage
 1. Run the script.
-2. Input a prompt (e.g., *"A dragon flying over a forest"*).
+2. Input a prompt (e.g., *"A rainy window framing vibrant green plants, their leaves glistening with raindrops."*).
 3. Specify the number of images (e.g., `3`).
 4. View the generated images or find them saved in the `./generated_images` folder.
 
